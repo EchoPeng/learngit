@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 Another testing for branch.
 dsadsadsda.
 zixuanEcho.
+For Clone.
