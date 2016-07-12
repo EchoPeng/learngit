@@ -10,3 +10,4 @@ Another testing for branch.
 dsadsadsda.
 zixuanEcho.
 Hello, Echo!
+For Clone.
